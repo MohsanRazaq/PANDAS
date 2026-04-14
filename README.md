@@ -23,4 +23,4 @@ Contributions are welcome. Please open an issue or submit a pull request with yo
 
 ## License
 
-Add your preferred license information here (for example, MIT, Apache-2.0, etc.).
+No license has been specified yet.

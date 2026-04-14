@@ -10,7 +10,7 @@ data = {
 
 df = pd.DataFrame(data)
 
-# 2. Filter data (e.g., find high traffic sessions > 500MB)
+# 2. Filter data (
 high_traffic = df[df['Traffic_MB'] > 500]
 
 # 3. Grouping and Aggregation (Sum traffic by Source_IP)

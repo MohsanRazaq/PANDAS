@@ -1,7 +1,7 @@
 import pandas as pd
 list={
     'ID':[1,2,3,4],
-    'Name':['Ali', 'Ahsan', 'Mohsan', 'Ahmad '],
+    'Name':['Ali', 'Ahsan', 'Mohsan', 'Ahmad ','noni'],
     'Marks':[60, 85, 95, 70 ]
     
 }
